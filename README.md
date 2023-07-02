@@ -1,0 +1,2 @@
+# dotia.sh
+free
